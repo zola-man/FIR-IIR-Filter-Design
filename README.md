@@ -6,12 +6,12 @@ Filtering digital signals is one method of signal modification. When accurate da
 The creation of filters utilizing the two most prominent methods, FIR and IIR, is outlined and shown in this short project. 
 The following are the filters that will be used in this project:
 
-Low Pass Filter
-High Pass Filter
-Band Pass Filter
-and Stop Filter
+1. Low Pass Filter
+2. High Pass Filter
+3. Band Pass Filter
+4. Stop Filter
 
 
-##### Addis Ababa Science and Technology University
-##### Department of Electrical and Computer Engineering
-###### Zelalem Adugnaw
+                  ##### Addis Ababa Science and Technology University
+                    ##### Department of Electrical and Computer Engineering
+                        ###### Zelalem Adugnaw
