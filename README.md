@@ -12,6 +12,6 @@ Band Pass Filter
 and Stop Filter
 
 
-## Addis Ababa Science and Technology University
-# Department of Electrical and Computer Engineering
-# Zelalem Adugnaw
+##### Addis Ababa Science and Technology University
+##### Department of Electrical and Computer Engineering
+###### Zelalem Adugnaw
