@@ -1,4 +1,4 @@
-# FIR-IIR-Filter-Design
+# Finite Impulse Response(FIR)-Infinite Impulse Response(IIR)-Filter-Design
 Digital Signal Processing
 In today's digital environment, digital signals are becoming increasingly common. 
 Being able to manage these signals is a valuable ability for an engineer. 
