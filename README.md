@@ -14,4 +14,4 @@ The following are the filters that will be used in this project:
 
                   ##### Addis Ababa Science and Technology University
                     ##### Department of Electrical and Computer Engineering
-                        ###### Zelalem Adugnaw
+                        ###### Zelalem Adugnaw Kelem
